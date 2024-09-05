@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashuyadav5028246@gmail.com**
 
-- ⚡ Fun fact **Singer and **
+- ⚡ Fun fact **Singer** as well 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
