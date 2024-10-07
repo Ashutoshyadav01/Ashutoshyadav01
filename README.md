@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/ashuyad51727489" target="blank"><img src="https://img.shields.io/twitter/follow/ashuyad51727489?logo=twitter&style=for-the-badge" alt="ashuyad51727489" /></a> </p>
 
 - 🔭 I’m currently working on [Grocery-App](https://github.com/Ashutoshyadav01/shopping_app_frontend)
 
