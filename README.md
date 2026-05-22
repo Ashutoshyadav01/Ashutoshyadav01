@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Ashutosh Kumar</h1>
-<h3 align="center">💻 Full Stack Developer | 🎤 Singer | 🇮🇳 From India</h3>
+<h3 align="center">💻 Full Stack Developer | 🇮🇳 From India</h3>
 
 ---
 
