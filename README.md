@@ -9,7 +9,7 @@
 - 🧠 Learning: **PHP**, **Node.js**  
 - 💬 Ask me about: **React, React Native, JavaScript, C++, HTML, CSS, Tailwind, Git**  
 - 📫 Reach out: **ashuyadav5028246@gmail.com**  
-- ⚡ Fun Fact: I sing when I code 😄  
+
 
 ---
 
